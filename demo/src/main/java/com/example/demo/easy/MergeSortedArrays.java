@@ -48,7 +48,6 @@ public class MergeSortedArrays {
 
         merge(nums1, m, nums2, n);
 
-        // Print the result
         System.out.println(Arrays.toString(nums1));
     }
 }
